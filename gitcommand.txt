@@ -1,0 +1,36 @@
+git log
+git list
+git status 
+git add indext.html
+git add .
+git commit - m "completed the first code"
+git log
+git diff hashvalue of one commit and hash value of the other commit
+before staging
+vi index.html
+cat  index.html
+git status
+git checkout -inedext.html
+git reset HEAD index.html
+ls .git
+cd hooks
+
+ 
+after staging 
+after commit
+
+vi index.html
+git checkout dev
+git add .
+ git commit -m "fkjfsa"
+git bran
+git branh -d branch name
+git branch -d bugfix
+git reset v revert
+git reset --hard 
+git push -f 
+git revert is favoured ofver git reset 
+ with git reset some commits will go on 
+rather git revert 
+the head always point to the letest commit
+cherrypicking 
